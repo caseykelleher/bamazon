@@ -30,7 +30,7 @@ Created during Lesson 10: Node.js & MySQL of UCF Coding Bootcamp. The goal was t
 
 ## Demo Videos
 
-* BamazonCustomer.js (https://www.youtube.com/watch?v=p-QBusgtjKE)
+* BamazonCustomer.js (https://youtu.be/07evBHxOqMc)
 
 ## Technologies used
 - Node.js
